@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.2" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="org.zerock.domain.ReplyVO" project="ex02" 
+    file="/ex02/src/main/java/org/zerock/domain/ReplyVO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="459" width="256" x="1379" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="org.zerock.domain.SearchCriteria" project="ex02" 
+    file="/ex02/src/main/java/org/zerock/domain/SearchCriteria.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="158" x="2520" y="1017"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="org.zerock.domain.BoardVO" project="ex02" 
+    file="/ex02/src/main/java/org/zerock/domain/BoardVO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="549" width="294" x="41" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="org.zerock.domain.SampleVO" project="ex02" 
+    file="/ex02/src/main/java/org/zerock/domain/SampleVO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="148" x="892" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="org.zerock.domain.PageMaker" project="ex02" 
+    file="/ex02/src/main/java/org/zerock/domain/PageMaker.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="549" width="259" x="2520" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="org.zerock.domain.Criteria" project="ex02" 
+    file="/ex02/src/main/java/org/zerock/domain/Criteria.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="144" x="2520" y="626"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="org.zerock.domain.MessageVO" project="ex02" 
+    file="/ex02/src/main/java/org/zerock/domain/MessageVO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="441" width="269" x="1675" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="org.zerock.domain.MemberVO" project="ex02" 
+    file="/ex02/src/main/java/org/zerock/domain/MemberVO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="441" width="259" x="1080" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="org.zerock.persistence.MemberDAOImpl" project="ex02" 
+    file="/ex02/src/main/java/org/zerock/persistence/MemberDAOImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="209" x="643" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="org.zerock.persistence.BoardDAOImpl" project="ex02" 
+    file="/ex02/src/main/java/org/zerock/persistence/BoardDAOImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="405" width="228" x="3101" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="11" language="java" name="org.zerock.persistence.MessageDAO" project="ex02" 
+    file="/ex02/src/main/java/org/zerock/persistence/MessageDAO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="196" x="4131" y="626"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="12" language="java" name="org.zerock.persistence.ReplyDAOImpl" project="ex02" 
+    file="/ex02/src/main/java/org/zerock/persistence/ReplyDAOImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="215" x="3369" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="13" language="java" name="org.zerock.persistence.MemberDAO" project="ex02" 
+    file="/ex02/src/main/java/org/zerock/persistence/MemberDAO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="209" x="643" y="626"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="14" language="java" name="org.zerock.persistence.UserDAOImpl" project="ex02" 
+    file="/ex02/src/main/java/org/zerock/persistence/UserDAOImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="235" x="3856" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="org.zerock.persistence.PointDAOImpl" project="ex02" 
+    file="/ex02/src/main/java/org/zerock/persistence/PointDAOImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="155" x="4367" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="org.zerock.persistence.MessageDAOImpl" project="ex02" 
+    file="/ex02/src/main/java/org/zerock/persistence/MessageDAOImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="196" x="4131" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="17" language="java" name="org.zerock.persistence.PointDAO" project="ex02" 
+    file="/ex02/src/main/java/org/zerock/persistence/PointDAO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="155" x="4367" y="626"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="18" language="java" name="org.zerock.persistence.BoardDAO" project="ex02" 
+    file="/ex02/src/main/java/org/zerock/persistence/BoardDAO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="351" width="228" x="2986" y="626"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="19" language="java" name="org.zerock.persistence.ReplyDAO" project="ex02" 
+    file="/ex02/src/main/java/org/zerock/persistence/ReplyDAO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="215" x="3254" y="626"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="20" language="java" name="org.zerock.persistence.UserDAO" project="ex02" 
+    file="/ex02/src/main/java/org/zerock/persistence/UserDAO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="235" x="3856" y="626"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="21" language="java" name="org.zerock.service.BoardService" project="ex02" 
+    file="/ex02/src/main/java/org/zerock/service/BoardService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="262" x="2218" y="626"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="22" language="java" name="org.zerock.service.UserService" project="ex02" 
+    file="/ex02/src/main/java/org/zerock/service/UserService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="192" x="3624" y="626"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="23" language="java" name="org.zerock.service.ReplyService" project="ex02" 
+    file="/ex02/src/main/java/org/zerock/service/ReplyService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="242" x="2704" y="626"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="24" language="java" name="org.zerock.service.ReplyServiceImpl" project="ex02" 
+    file="/ex02/src/main/java/org/zerock/service/ReplyServiceImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="242" x="2819" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="25" language="java" name="org.zerock.service.MessageService" project="ex02" 
+    file="/ex02/src/main/java/org/zerock/service/MessageService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="227" x="4562" y="626"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="26" language="java" name="org.zerock.service.UserServiceImpl" project="ex02" 
+    file="/ex02/src/main/java/org/zerock/service/UserServiceImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="192" x="3624" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="27" language="java" name="org.zerock.service.MessageServiceImpl" project="ex02" 
+    file="/ex02/src/main/java/org/zerock/service/MessageServiceImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="227" x="4562" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="28" language="java" name="org.zerock.service.BoardServiceImpl" project="ex02" 
+    file="/ex02/src/main/java/org/zerock/service/BoardServiceImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="261" width="262" x="2218" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="29" language="java" name="org.zerock.util.MediaUtils" project="ex02" 
+    file="/ex02/src/main/java/org/zerock/util/MediaUtils.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="194" x="1984" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="30" language="java" name="org.zerock.util.UploadFileUtils" project="ex02" 
+    file="/ex02/src/main/java/org/zerock/util/UploadFileUtils.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="228" x="375" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="31">    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="32" name="dao"/>      
+      <multiplicity id="33" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="34">    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="22"/>  
+  </realization>  
+  <realization id="35">    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="21"/>  
+  </realization>  
+  <realization id="36">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="13"/>  
+  </realization>  
+  <realization id="37">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="25"/>  
+  </realization>  
+  <association id="38">    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="39" name="messageDAO"/>      
+      <multiplicity id="40" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="41">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="17"/>  
+  </realization>  
+  <realization id="42">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="18"/>  
+  </realization>  
+  <realization id="43">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="19"/>  
+  </realization>  
+  <association id="44">    
+    <end type="SOURCE" refId="28" navigable="false">      
+      <attribute id="45" name="dao"/>      
+      <multiplicity id="46" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="47">    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="48" name="pointDAO"/>      
+      <multiplicity id="49" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="50">    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="51" name="boardDAO"/>      
+      <multiplicity id="52" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="53">    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="54" name="dao"/>      
+      <multiplicity id="55" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="56">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="20"/>  
+  </realization>  
+  <generalization id="57">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="6"/>  
+  </generalization>  
+  <association id="58">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="59" name="cri"/>      
+      <multiplicity id="60" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="61">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="11"/>  
+  </realization>  
+  <realization id="62">    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="23"/>  
+  </realization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

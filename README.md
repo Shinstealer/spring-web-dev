@@ -8,10 +8,9 @@
 
 :arrow_right: It is to experience and learn how to build web system in spring legacy
 
-**:book: Enviorment**
+**:book: Flamework**
 
 * [spring 3.0]
-* [Maven]
 
 **:book: Language**
 
@@ -34,6 +33,14 @@
 **:book: test**
 
 * [Junit4]
+
+**:book: project management**
+
+* [Maven]
+
+**:book: version management**
+
+* [Git]
 
 ## Acknowledgments
 
